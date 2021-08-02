@@ -1,0 +1,35 @@
+.login_div1, .login_div2{
+    background-color:hotpink;
+    color:khaki;
+    padding:10px;
+    float:none;
+    border-radius:15px;
+}
+h1{
+    color:whitesmoke;
+}
+
+body{
+    background-color:rgb(93, 123, 214);
+}
+#word{
+    text-align:center;
+}
+
+#output{
+    background : white;
+    border-radius : 10px;
+    border-top : 10px solid maroon;
+    padding : 10px;
+    float : none;
+    text-align : center;
+}
+
+#questionDisplay{
+    letter-spacing:5px;
+}
+
+#p1_name, #p2_name{
+    display : inline-block;
+    margin-left : 10px;
+}
